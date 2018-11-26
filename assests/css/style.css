@@ -1,0 +1,28 @@
+
+body {
+    font-family: Ragna, cursive;
+    background-image: url('../images/bg.png');
+    color: white;
+ ;
+    
+}
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.555);
+}
+
+.image {
+    position: relative;
+}
+h3 {
+    position: absolute;
+    background-color: rgb(37, 89, 131);
+    bottom: 10px;
+}
+.footer {
+        border-top: 3px solid rgba(170, 74, 74, 0.747);
+        height: 50px;
+        bottom: 0px;
+        position: fixed;
+        left: 50px;
+        
+}
